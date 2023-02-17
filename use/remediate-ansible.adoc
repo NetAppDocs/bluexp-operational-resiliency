@@ -1,0 +1,29 @@
+---
+sidebar: sidebar
+permalink: use/remediate-ansible.html
+keywords: bluexp, operational resiliency, remediate, security risk remediation
+summary: You can review security risks and download an Ansible playbook that you can follow to fix the issue.      
+---
+
+= Remediate using an Ansible playbook
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+You can review security risks and download an Ansible playbook that you can follow to fix the issue. 
+
+
+.Steps
+
+. From the left BlueXP navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
+
+. In the list of risks, sort by the Impact level column to see the highest risks first. 
+
+. Select the risk and select *Remediate risk*. 
+
+. To remediate yourself, select *Download* to download an Ansible playbook that you use to perform the tasks. 
+
+. Locate the Ansible playbook in <this folder>.
+
+. Follow the instructions in the playbook.

@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: get-started/intro.html
+keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp
+summary: Operational resiliency is a category of services that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
+
+---
+
+= Learn about the Economic efficiency service
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/concepts/
+
+[.lead]
+Operational resiliency is a category of services that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
+
+Risk remediation is a service for BlueXP that implements remediations to NetApp ONTAP clusters based on NetApp Digital Advisor (formerly Active IQ) guidance. 
+
+== Benefits of using the Operational resiliency service 
+
+TBD
+
+== What you can do with the Operational resiliency service 
+
+Using the Operational resiliency service, you can accomplish the following goals: 
+
+* Use automated workflows that help you detect risks impacting your storage environment and take actions to mitigate them. 
+
+* Review and act on economical operations recommendations, such as issues related to exceeding capacity threshold.
+
+* Review and act on operational recommendations, such as issues related to security vulnerabilities. 

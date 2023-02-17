@@ -1,0 +1,48 @@
+---
+sidebar: sidebar
+permalink: use/remediate-auto.html
+keywords: bluexp, operational resiliency, remediate, security risk remediation
+summary: If you selected the Remediate option, the service can implement the remediation for you.      
+---
+
+= Remediate the issue automatically
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+If you selected the *Remediate* option, the service can implement the remediation for you.  
+
+
+.Steps
+
+. From the left BlueXP navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
+
+. From the Risk Remediation page, sort by the Impact level column to see the highest risks first. 
+
+. Select the risk and select *Remediate risk*. 
+
+. For each cluster, select *Remediate*. 
++
+This action deploys the Connector (if not already done), discovers the cluster, downloads the fix and automatically implements the fix on the selected cluster. 
+
++
+Instructions appear, depending on the issue. Some of the options on this page do not appear if Connector exists or a cluster is known
+
+* If a Connector does not exist or is not yet enabled, the service displays the Create a Connector page, where you can create the Connector. If the Connector exists, but is not active, you must enable it in the Cloud provider service. 
++
+Refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a connector]. 
+
+
+* If a cluster does not exist, the service displays a page where you identify the cluster. 
++
+Refer to BlueXP documentation that explains https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[how to identify the cluster].
+
+. After the Connector is deployed and the cluster is discovered, review the remediation next. 
++
+If you selected the *Remediate* option to have the service implement the remediation for you, the Review and Execute Required Fix page appears.
+
+. Review the risk and other information. 
+. Select *Execute*.  
+
+. To view the status of the remediation fix, note the cluster name on the Remediation Status page. 
