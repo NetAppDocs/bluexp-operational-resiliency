@@ -1,5 +1,5 @@
 section: use
-title: Use the Economic efficiency service
+title: Use the Operational resiliency service
 entries:
   - title: Review and remediate security issues
     url: /use/remediate-overview.html
@@ -9,5 +9,5 @@ entries:
     url: /use/remediate-auto.html
   - title: Remediate issues using an Ansible playbook
     url: /use/remediate-ansible.html
-  - title: Determine the risk remediation status
+  - title: Determine the remediation status
     url: /use/remediate-status.html
