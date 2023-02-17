@@ -28,8 +28,8 @@ indexpage:
       url: /use/remediate-ansible.html
     - title: Determine the risk remediation status
       url: /use/remediate-status.html
-   - title: Blogs & community
-     links:
+  - title: Blogs & community
+    links:
     - title: NetApp Community
       url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
     - title: Cloud Tiering blog
