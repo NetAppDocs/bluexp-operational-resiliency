@@ -1,5 +1,5 @@
 indexpage:
-  lead: # single paragraph, shown on the pageOperational resiliency is a category of services that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs.
+  lead: Operational resiliency is a category of services that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs.
   tiles:
   - title: Get started
     #image: ./media/outline_directions_run_black_18dp.png
@@ -29,10 +29,11 @@ indexpage:
     - title: Determine the risk remediation status
       url: /use/remediate-status.html
    - title: Blogs & community
-    links:
+     links:
     - title: NetApp Community
       url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
     - title: Cloud Tiering blog
       url: https://bluexp.netapp.com/blog/topic/cloud-tiering
     - title: Cloud webinars
-      url: https://bluexp.netapp.com/events       
+      url: https://bluexp.netapp.com/events   
+
