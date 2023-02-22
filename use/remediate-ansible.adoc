@@ -22,8 +22,20 @@ You can review security risks and download an Ansible playbook that you can foll
 
 . Select the risk and select *Remediate risk*. 
 
-. To remediate yourself, select *Download* to download an Ansible playbook that you use to perform the tasks. 
+. To remediate the issue yourself, select *Download* to download an Ansible playbook that you use to perform the tasks. 
 
-. Locate the Ansible playbook in <this folder>.
++
+The service installs the Ansible playbook to your local machines in a location that you choose. The playbook downloads as a zip file, which contains several YML files. 
+
+. Locate the Ansible playbook in the download folder.
+
+. Run the Ansible playbook: 
++
+----
+$ ansible-playbook <playbook.yml> 
+----
++
+For instructions on how to use an Ansible playbook, refer to the https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html[Ansible documentation].
+
 
 . Follow the instructions in the playbook.

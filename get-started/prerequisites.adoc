@@ -23,6 +23,8 @@ Refer to the BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/refe
 
 * You need to have access credentials to the clusters. 
 
+* While not a requirement, it is helpful if the BlueXP Connector is in place and enabled and the ONTAP system is discovered. If not, the Operational resiliency service walks you through those processes. 
+
 == Supported web browsers
 
 The BlueXP Operational resiliency service supports recent versions of Firefox, Safari, and Chrome with a minimum resolution of 1280 x 720.
