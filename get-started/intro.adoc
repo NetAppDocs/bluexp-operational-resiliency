@@ -35,6 +35,10 @@ Using the Operational resiliency service, you can accomplish the following goals
 
 * Review and act on operational recommendations, such as issues related to security vulnerabilities. 
 
+== Cost
+
+NetApp doesn’t charge you for using the service.
+
 == Supported environments 
 
 The Operational resiliency service analyzes on-premises AFF clusters. 

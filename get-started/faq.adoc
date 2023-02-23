@@ -19,9 +19,8 @@ This FAQ can help if you're just looking for a quick answer to a question.
 
 *What's the BlueXP Operational resiliency URL?*
 
-The BlueXP Operational resiliency service uses local authentication and a URL specific to each environment.
 
-For the URL, in a browser, enter the <url>. 
+For the URL, in a browser, enter: https://console.bluexp.netapp.com/ 
 
 == Licensing
 
