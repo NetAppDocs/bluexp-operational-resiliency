@@ -1,0 +1,23 @@
+---
+sidebar: sidebar
+permalink: release-notes/whats-new.html
+keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks
+summary: Learn what’s new in the Operational resiliency service.
+---
+
+= What's new
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn what’s new in the Operational resiliency service.
+
+
+== 5 April 2023 
+
+Using the new Operational resiliency service and its automated IT operational risk remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
+
+Operational resiliency is a category of services that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions.
+
+link:../get-started/intro.html[Learn more about this new service]. 

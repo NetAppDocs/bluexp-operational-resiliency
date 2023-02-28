@@ -6,8 +6,8 @@ indexpage:
     links:
     - title: Learn about the Operational resiliency service
       url: /get-started/intro.html
-#   - title: What's new in the Operational resiliency service
-#     url: /release-notes/whats-new.html
+    - title: What's new
+      url: /release-notes/whats-new.html
 #   - title: Release notes
 #     url: /release-notes/rn_overview.html
     - title: Quick start

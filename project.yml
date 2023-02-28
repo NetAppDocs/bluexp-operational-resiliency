@@ -10,7 +10,7 @@ sidebar:
   entries:
   - title: Operational resiliency docs 
     url: /index.html 
-# - section: release-notes 
+  - section: release-notes 
   - section: get-started
   - section: use 
 # - section: concepts 
