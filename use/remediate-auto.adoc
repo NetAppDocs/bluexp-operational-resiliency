@@ -23,8 +23,6 @@ If you selected the *Remediate* option, the service can implement the remediatio
 . Select the risk and select *Remediate risk*. 
 
 . For each cluster, select *Remediate*. 
-+
-This action deploys the Connector (if not already done), discovers the cluster, downloads the fix and automatically implements the fix on the selected cluster. 
 
 +
 Instructions appear, depending on the issue. Some of the options on this page do not appear if Connector exists or a cluster is known
@@ -44,5 +42,8 @@ If you selected the *Remediate* option to have the service implement the remedia
 
 . Review the risk and other information. 
 . Select *Execute*.  
++
+This action deploys the Connector (if not already done), discovers the cluster, downloads the fix and automatically implements the fix on the selected cluster. 
+
 
 . To view the status of the remediation fix, note the cluster name on the Remediation Status page. 

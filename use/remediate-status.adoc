@@ -5,7 +5,7 @@ keywords: bluexp, operational resiliency, remediate, security risk remediation
 summary: You can check on the status of a remediation at any time. You can see whether it’s running, completed, or failed.      
 ---
 
-= Remediate using an Ansible playbook
+= Review the remediation status
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/use/

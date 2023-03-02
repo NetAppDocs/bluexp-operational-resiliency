@@ -16,8 +16,8 @@ The first step on the path to using the Risk remediation service is making data 
 Setting up the service involves the following steps: 
 
 * Review link:../get-started/prerequisites.html[prerequisites] to ensure that your environment is ready
-* Create a Connector in BlueXP
-* Discover the cluster in BlueXP
+* Optionally  before using the service, create a Connector in BlueXP
+* Optionally before using the service, discover the cluster in BlueXP
 
 == Create a Connector in BlueXP
 A BlueXP Connector includes credentials to NetApp ONTAP machines so that the Operational resiliency service can advise on security risks and execute remediations.

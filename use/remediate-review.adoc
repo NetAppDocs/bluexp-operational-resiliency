@@ -13,7 +13,7 @@ summary: The Risk remediation service identifies security risks on your on-premi
 [.lead]
 The Risk remediation service identifies security risks on your on-premises ONTAP cluster. 
 
-Reviewing the risks involves the following processes: 
+Reviewing the risks and executing the automated remediation involves the following processes: 
 
 * Create a Connector in BlueXP (if one does not already exist for the Risk remediation service). 
 * Discover the cluster (if one does not already exist for the service). 
@@ -34,6 +34,6 @@ Reviewing the risks involves the following processes:
 +
 * For each cluster, select *Remediate*. 
 +
-This action deploys the Connector (if not already done), discovers the cluster, downloads the fix and automatically implements the fix on the selected cluster.  Continue with link:../use/remediate-auto.html[Remediate risk issues automatically].
+This action leads to automatically remediating the issue (after you select *Execute* to start the remediation).  Continue with link:../use/remediate-auto.html[Remediate risk issues automatically].
 
 * To remediate yourself, select *Download* to download an Ansible playbook that you use to fix the issue yourself. Continue with link:../use/remediate-ansible.html[Remediate with an Ansible playbook].
