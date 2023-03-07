@@ -28,7 +28,9 @@ Reviewing the risks and executing the automated remediation involves the followi
 
 . In the list of risks, sort by the Impact level column to see the highest risks first. 
 
-. Select the risk and select *Remediate risk*. 
+. Select the risk and see additional details.
+
+. Select *Remediate risk*. 
 
 . Do one of the following: 
 +
