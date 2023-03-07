@@ -13,6 +13,13 @@ summary: You can review security risks and download an Ansible playbook that you
 [.lead]
 You can review security risks and download an Ansible playbook that you can follow to fix the issue. 
 
+You can download an Ansible playbook, an open-source deployment system that enables you to run configuration tasks. To use Ansible, simply run the playbook file, which uses the inventory and helper files stored in the same directory.
+
+.What you'll need
+
+The system must be able access the cluster IP over the network for executing Ansible playbooks. 
+
+
 
 .Steps
 
