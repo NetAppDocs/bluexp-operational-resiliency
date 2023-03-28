@@ -42,7 +42,7 @@ The service installs the Ansible playbook to your local machines in a location t
 $ ansible-playbook <playbook.yml> 
 ----
 +
-For instructions on how to use an Ansible playbook, refer to the https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html[Ansible documentation].^
+For instructions on how to use an Ansible playbook, refer to the https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html[Ansible documentation^].
 
 
 . Follow the instructions in the playbook.
