@@ -2,7 +2,7 @@
 layout: landing-page
 sidebar: sidebar
 permalink: index.html
-summary: "Operational resiliency is a category of services that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs."
+summary: "Operational resiliency is a category of services that help you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs."
 ---
 = Operational resiliency service
 :hardbreaks:

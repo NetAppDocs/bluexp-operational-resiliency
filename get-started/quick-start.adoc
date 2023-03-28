@@ -18,10 +18,7 @@ Here's an overview of the steps needed to get started with the NetApp BlueXP Ope
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png[One] Review prerequisites 
 
 [role="quick-margin-para"]
-Ensure that your environment meets these requirements.
-
-
-* link:../get-started/prerequisites.html[Ensure your environment meets these requirements^]
+link:../get-started/prerequisites.html[Ensure your environment meets these requirements^].
  
 
 
@@ -29,9 +26,7 @@ Ensure that your environment meets these requirements.
 
 
 [role="quick-margin-para"]
-Complete these setup tasks. 
-
-* link:../get-started/setup.html[Set up the Operational resiliency service^]
+link:../get-started/setup.html[Complete steps to set up the service^].
 
 
 
@@ -41,11 +36,11 @@ Complete these setup tasks.
 [role="quick-margin-para"]
 After you finish setting up the service, here's what you might do next. 
 
-
-* link:../use/remediate-overview.html[Review and remediate security risk issues^]
-* link:../use/remediate-auto.html[Remediate automatically^]
-* link:../use/remediate-ansible.html[Remediate with an Ansible playbook^]
-* link:../use/remediate-status.html[Determine the risk remediation status^]
+[role="quick-margin-list"]
+* link:../use/remediate-overview.html[Review and remediate security risk issues^].
+* link:../use/remediate-auto.html[Remediate automatically^].
+* link:../use/remediate-ansible.html[Remediate with an Ansible playbook^].
+* link:../use/remediate-status.html[Determine the risk remediation status^].
 
 
 

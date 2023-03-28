@@ -15,8 +15,8 @@ If you selected the *Remediate* option, the service can implement the remediatio
 
 
 .Steps
-
-. From the left BlueXP navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
+ 
+. From the BlueXP left navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
 
 . From the Risk Remediation page, sort by the Impact level column to see the highest risks first. 
 
@@ -25,7 +25,7 @@ If you selected the *Remediate* option, the service can implement the remediatio
 . For each cluster, select *Remediate*. 
 
 +
-Instructions appear, depending on the issue. Some of the options on this page do not appear if Connector exists or a cluster is known
+Instructions appear, depending on the issue. Some of the options on this page do not appear if a BlueXP Connector exists or a cluster is known.
 
 * If a Connector does not exist or is not yet enabled, the service displays the Create a Connector page, where you can create the Connector. If the Connector exists, but is not active, you must enable it in the Cloud provider service. 
 +
@@ -36,7 +36,7 @@ Refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/c
 +
 Refer to BlueXP documentation that explains https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[how to identify the cluster].
 
-. After the Connector is deployed and the cluster is discovered, review the remediation next. 
+. After the Connector is deployed and the cluster is discovered, review the remediation. 
 +
 If you selected the *Remediate* option to have the service implement the remediation for you, the Review and Execute Required Fix page appears.
 

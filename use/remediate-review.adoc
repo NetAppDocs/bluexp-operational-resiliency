@@ -24,7 +24,7 @@ Reviewing the risks and executing the automated remediation involves the followi
 
 .Steps
 
-. From the left BlueXP navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
+. From the BlueXP left navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
 
 . In the list of risks, sort by the Impact level column to see the highest risks first. 
 
@@ -36,6 +36,6 @@ Reviewing the risks and executing the automated remediation involves the followi
 +
 * For each cluster, select *Remediate*. 
 +
-This action leads to automatically remediating the issue (after you select *Execute* to start the remediation).  Continue with link:../use/remediate-auto.html[Remediate risk issues automatically].
+This action leads to remediating the issue automatically (after you select *Execute* to start the remediation).  Continue with link:../use/remediate-auto.html[Remediate risk issues automatically].
 
-* To remediate yourself, select *Download* to download an Ansible playbook that you use to fix the issue yourself. Continue with link:../use/remediate-ansible.html[Remediate with an Ansible playbook].
+* To remediate the issue yourself with an Ansible playbook, select *Download*. Continue with link:../use/remediate-ansible.html[Remediate risk issues with an Ansible playbook].

@@ -16,7 +16,7 @@ You can check on the status of a remediation at any time. You can see whether it
 
 .Steps
 
-. From the left BlueXP navigation, select *Health* > *Operational resiliency* > *Remediation status*.
+. From the BlueXP left navigation, select *Health* > *Operational resiliency* > *Remediation status*.
 
 +
 The Remediation Status page appears.  

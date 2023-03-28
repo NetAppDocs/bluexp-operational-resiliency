@@ -11,7 +11,7 @@ summary: Rather than add capacity or tier cold data, you can choose no action re
 :imagesdir: ../media/get-started/
 
 [.lead]
-The first step on the path to using the Risk remediation service is making data available from the monitoring tools in your environment. 
+The first step on the path to using the Operational resiliency service is making data available from the monitoring tools in your environment. 
 
 Setting up the service involves the following steps: 
 
@@ -24,10 +24,12 @@ A BlueXP Connector includes credentials to NetApp ONTAP machines so that the Ope
 
 You can create a Connector directly in BlueXP and use that Connector in the Operational resiliency service. Or, you can initiate the process of looking at the cluster and in the middle of that process, deploy the Connector. 
 
-To create a Connector in BlueXP before using the service, refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a connector]. 
+To create a Connector in BlueXP before using the service, refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a connector^]. 
 
 
 == Discover the cluster in BlueXP 
 
-Part of the setup involves identifying the cluster name, IP, user name, and password within BlueXP. For instructions, refer to https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[BlueXP documentation] that explains how to identify the cluster.
+Part of the setup involves identifying the cluster name, IP, user name, and password within BlueXP.
+
+For instructions, refer to BlueXP documentation that explains https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[how to identify the cluster^].
 

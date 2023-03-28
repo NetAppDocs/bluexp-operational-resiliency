@@ -23,13 +23,13 @@ The system must be able access the cluster IP over the network for executing Ans
 
 .Steps
 
-. From the left BlueXP navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
+. From the BlueXP left navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
 
 . In the list of risks, sort by the Impact level column to see the highest risks first. 
 
 . Select the risk and select *Remediate risk*. 
 
-. To remediate the issue yourself, select *Download* to download an Ansible playbook that you use to perform the tasks. 
+. To download an Ansible playbook that you use to remediate the issue yourself, select *Download*.
 
 +
 The service installs the Ansible playbook to your local machines in a location that you choose. The playbook downloads as a zip file, which contains several YML files. 
@@ -42,7 +42,7 @@ The service installs the Ansible playbook to your local machines in a location t
 $ ansible-playbook <playbook.yml> 
 ----
 +
-For instructions on how to use an Ansible playbook, refer to the https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html[Ansible documentation].
+For instructions on how to use an Ansible playbook, refer to the https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html[Ansible documentation].^
 
 
 . Follow the instructions in the playbook.
