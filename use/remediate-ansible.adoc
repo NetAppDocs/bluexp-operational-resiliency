@@ -1,0 +1,48 @@
+---
+sidebar: sidebar
+permalink: use/remediate-ansible.html
+keywords: bluexp, operational resiliency, remediate, security risk remediation
+summary: You can review security risks and download an Ansible playbook that you can follow to fix the issue.      
+---
+
+= Remediate using an Ansible playbook
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+You can review security risks and download an Ansible playbook that you can follow to fix the issue. 
+
+You can download an Ansible playbook, an open-source deployment system that enables you to run configuration tasks. To use Ansible, simply run the playbook file, which uses the inventory and helper files stored in the same directory.
+
+.What you'll need
+
+The system must be able access the cluster IP over the network for executing Ansible playbooks. 
+
+
+
+.Steps
+
+. From the BlueXP left navigation, select *Health* > *Operational resiliency* > *Risk Remediation*.
+
+. In the list of risks, sort by the Impact level column to see the highest risks first. 
+
+. Select the risk and select *Remediate risk*. 
+
+. To download an Ansible playbook that you use to remediate the issue yourself, select *Download*.
+
++
+The service installs the Ansible playbook to your local machines in a location that you choose. The playbook downloads as a zip file, which contains several YML files. 
+
+. Locate the Ansible playbook in the download folder.
+
+. Run the Ansible playbook: 
++
+----
+$ ansible-playbook <playbook.yml> 
+----
++
+For instructions on how to use an Ansible playbook, refer to the https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html[Ansible documentation^].
+
+
+. Follow the instructions in the playbook.

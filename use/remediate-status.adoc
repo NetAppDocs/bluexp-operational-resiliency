@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: use/remediate-status.html
+keywords: bluexp, operational resiliency, remediate, security risk remediation
+summary: You can check on the status of a remediation at any time. You can see whether it’s running, completed, or failed.      
+---
+
+= Review the remediation status
+:hardbreaks:
+:icons: font
+:imagesdir: ../media/use/
+
+[.lead]
+You can check on the status of a remediation at any time. You can see whether it’s running, completed, or failed. 
+
+
+.Steps
+
+. From the BlueXP left navigation, select *Health* > *Operational resiliency* > *Remediation status*.
+
++
+The Remediation Status page appears.  
+
+. To see details of an issue, select the issue to expand it. 
