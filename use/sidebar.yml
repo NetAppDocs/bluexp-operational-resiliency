@@ -1,0 +1,13 @@
+section: use
+title: Use the Operational resiliency service
+entries:
+  - title: Review and remediate security issues
+    url: /use/remediate-overview.html
+  - title: Review security issues
+    url: /use/remediate-review.html 
+  - title: Remediate issues automatically
+    url: /use/remediate-auto.html
+  - title: Remediate issues using an Ansible playbook
+    url: /use/remediate-ansible.html
+  - title: Determine the remediation status
+    url: /use/remediate-status.html

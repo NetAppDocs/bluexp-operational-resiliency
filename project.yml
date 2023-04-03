@@ -1,5 +1,5 @@
 settings:
-  name: "Product Name"
+  name: "Operational resiliency"
   internal:
     pdf_enabled: true
   prod:
@@ -8,5 +8,17 @@ settings:
 
 sidebar: 
   entries:
+  - title: Operational resiliency docs 
+    url: /index.html 
+  - section: release-notes 
+  - section: get-started
+  - section: use 
+# - section: concepts 
+  - section: support 
   - title: Legal notices
     url: /legal-notices.html
+
+product-family:
+  name: BlueXP
+  repo: cloud-manager-family
+  sidebar_label: All BlueXP documentation

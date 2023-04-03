@@ -1,9 +1,39 @@
 indexpage:
-  lead: # single paragraph, shown on the page
+  lead: Operational resiliency is a category of services that help you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the Operational resiliency’s Risk remediation service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs.
   tiles:
-    # one or more tile definitions for the page
-  - title: # short string (tile title)
+  - title: Get started
+    #image: ./media/outline_directions_run_black_18dp.png
     links:
-      # one or more links on the tile
-      - title: # short string (link title)
-        url: # single file name or external URL
+    - title: Learn about the Operational resiliency service
+      url: /get-started/intro.html
+    - title: What's new
+      url: /release-notes/whats-new.html
+#   - title: Release notes
+#     url: /release-notes/rn_overview.html
+    - title: Quick start
+      url: /get-started/quick-start.html
+    - title: Prerequisites
+      url: /get-started/prerequisites.html
+    - title: Log in to the service on BlueXP
+      url: /get-started/login.html
+    - title: FAQ
+      url: /get-started/faq.html 
+  - title: Use the Operational resiliency service
+    links:
+    - title: Review and remediate security issues
+      url: /use/remediate-overview.html
+    - title: Remediate issues automatically
+      url: /use/remediate-auto.html
+    - title: Remediate issues using an Ansible playbook
+      url: /use/remediate-ansible.html
+    - title: Determine the risk remediation status
+      url: /use/remediate-status.html
+  - title: Blogs & community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Cloud Tiering blog
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: Cloud webinars
+      url: https://bluexp.netapp.com/events   
+
