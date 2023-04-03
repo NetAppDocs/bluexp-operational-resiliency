@@ -17,9 +17,9 @@ To use the Operational resiliency service, you should ensure that your environme
 
 * Your environment must meet all BlueXP requirements including a login and network access from a web browser. 
 +
-Refer to the BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html[Getting started checklist].
+Refer to the BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html[Getting started checklist^].
 
-* The service requires that all clusters are monitored by Digital Advisor (formerly Active IQ Digital Advisor). Refer to https://docs.netapp.com/us-en/active-iq/index.html[Digital Advisor documentation].
+* The service requires that all clusters are monitored by Digital Advisor (formerly Active IQ Digital Advisor). Refer to https://docs.netapp.com/us-en/active-iq/index.html[Digital Advisor documentation^].
 
 * You need to have access credentials to the clusters. 
 

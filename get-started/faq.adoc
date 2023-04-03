@@ -20,7 +20,7 @@ This FAQ can help if you're just looking for a quick answer to a question.
 *What's the BlueXP Operational resiliency URL?*
 
 
-For the URL, in a browser, enter: https://console.bluexp.netapp.com/ 
+For the URL, in a browser, enter: https://console.bluexp.netapp.com/[https://console.bluexp.netapp.com/^]
 
 == Licensing
 
