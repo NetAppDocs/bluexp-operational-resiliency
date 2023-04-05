@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: use/remediate-overview.html
 keywords: operational resiliency, remediate, risk remediation, security risk
-summary: The NetApp BlueXP Operational resiliency service uses AI to determine security risks. 
+summary: The NetApp BlueXP operational resiliency service uses AI to determine security risks. 
 ---
 
 = Review and remediate security risk issues
@@ -11,7 +11,7 @@ summary: The NetApp BlueXP Operational resiliency service uses AI to determine s
 :imagesdir: ../media/use/
 
 [.lead]
-The Operational resiliency service enables you to review security risks related to firmware issues and implement remediations. 
+The operational resiliency service enables you to review security risks related to firmware issues and implement remediations. 
 
 Recommendations are provided at the system or node level.
 
@@ -22,7 +22,7 @@ After reviewing risks, you can remediate those risks in two ways:
 *	Download an Ansible playbook, an open-source deployment system that enables you to run configuration tasks, and you perform the actions suggested in the playbook. 
 
 
-Using the Operational resiliency service, you can accomplish these goals: 
+Using the operational resiliency service, you can accomplish these goals: 
 
 * link:../use/remediate-review.html[Review security risk issues]
 * link:../use/remediate-auto.html[Remediate automatically]

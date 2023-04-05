@@ -11,7 +11,7 @@ summary: If you selected the Remediate option, the service can implement the rem
 :imagesdir: ../media/use/
 
 [.lead]
-If you selected the *Remediate* option in the BlueXP Operational resiliency service, the service can implement the remediation for you.  
+If you selected the *Remediate* option in the BlueXP operational resiliency service, the service can implement the remediation for you.  
 
 
 .Steps
