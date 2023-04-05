@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: get-started/prerequisites.html
 keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites
-summary: Get started with the BlueXP Operational resiliency by verifying support for your environment, network access, login and web browser.
+summary: Get started with the BlueXP operational resiliency service by verifying support for your environment, network access, login and web browser.
 ---
 
 = Operational resiliency prerequisites
@@ -13,7 +13,7 @@ summary: Get started with the BlueXP Operational resiliency by verifying support
 [.lead]
 Get started by verifying the readiness of your operational environment, login, network access, and web browser.
 
-To use the Operational resiliency service, you should ensure that your environment meets all requirements. 
+To use the operational resiliency service, you should ensure that your environment meets all requirements. 
 
 * Your environment must meet all BlueXP requirements including a login and network access from a web browser. 
 +
@@ -23,5 +23,5 @@ Refer to the BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/refe
 
 * You need to have access credentials to the clusters. 
 
-* While not a requirement, it is helpful if the BlueXP Connector is in place and enabled and the ONTAP system is discovered. If not, the Operational resiliency service walks you through those processes. 
+* While not a requirement, it is helpful if the BlueXP Connector is in place and enabled and the ONTAP system is discovered. If not, the operational resiliency service walks you through those processes. 
 

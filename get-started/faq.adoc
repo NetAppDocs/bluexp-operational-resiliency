@@ -5,7 +5,7 @@ keywords: operational resiliency faq, risk remediation frequently asked question
 summary: This FAQ can help if you're just looking for a quick answer to a question.
 ---
 
-= Frequently asked questions for the Operational resiliency service
+= Frequently asked questions for the operational resiliency service
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/
@@ -14,16 +14,16 @@ summary: This FAQ can help if you're just looking for a quick answer to a questi
 This FAQ can help if you're just looking for a quick answer to a question.
 
 
-== Access to the Operational resiliency service
+== Access to the operational resiliency service
 
 
-*What's the BlueXP Operational resiliency URL?*
+*What's the BlueXP operational resiliency URL?*
 
 
 For the URL, in a browser, enter: https://console.bluexp.netapp.com/[https://console.bluexp.netapp.com/^]
 
 == Licensing
 
-*Do you need a license to use the Operational resiliency service?*
+*Do you need a license to use the operational resiliency service?*
 
 A NetApp License File (NLF) is not required.
