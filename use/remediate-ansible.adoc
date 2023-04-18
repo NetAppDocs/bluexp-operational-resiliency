@@ -5,7 +5,7 @@ keywords: bluexp, operational resiliency, remediate, security risk remediation
 summary: You can review security risks and download an Ansible playbook that you can follow to fix the issue.      
 ---
 
-= Remediate using an Ansible playbook
+= Remediate risks using an Ansible playbook
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/use/

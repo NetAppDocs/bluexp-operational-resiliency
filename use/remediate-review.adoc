@@ -11,7 +11,7 @@ summary: The Risk remediation service identifies security risks on your on-premi
 :imagesdir: ../media/use/
 
 [.lead]
-The Risk remediation service identifies security risks on your on-premises ONTAP cluster. 
+BlueXP operational resiliency identifies security risks on your on-premises ONTAP cluster. 
 
 Reviewing the risks and executing the automated remediation involves the following processes: 
 

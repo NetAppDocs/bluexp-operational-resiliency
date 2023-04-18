@@ -2,19 +2,19 @@
 sidebar: sidebar
 permalink: get-started/intro.html
 keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp
-summary: Operational resiliency is a service that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the operational resiliency service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
+summary: BlueXP operational resiliency is a service that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the operational resiliency service and its automated IT operational remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
 
 ---
 
-= Learn about the operational resiliency service
+= Learn about BlueXP operational resiliency
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/concepts/
 
 [.lead]
-Operational resiliency is a service thats helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the operational resiliency service and its automated IT operational risk remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
+BlueXP operational resiliency is a service thats helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the operational resiliency service and its automated IT operational risk remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
 
-This BlueXP service implements remediations to NetApp ONTAP clusters based on NetApp Digital Advisor (formerly Active IQ) guidance. The service detects security vulnerabilities, such as firmware and software configuration issues. 
+This BlueXP service implements remediations to NetApp ONTAP clusters based on NetApp digital advisor (Active IQ) guidance. The service detects security vulnerabilities, such as firmware and software configuration issues. 
 
 == Benefits of using the operational resiliency service 
 
