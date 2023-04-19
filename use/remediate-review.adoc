@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: use/remediate-review.html
 keywords: bluexp, operational resiliency, remediate, security risk remediation
-summary: The Risk remediation service identifies security risks on your on-premises ONTAP cluster.     
+summary: BlueXP operational resiliency identifies security risks on your on-premises ONTAP cluster.     
 ---
 
 = Review security risk issues
