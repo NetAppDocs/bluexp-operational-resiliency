@@ -1,5 +1,5 @@
 settings:
-  name: "Operational resiliency"
+  name: "BlueXP operational resiliency"
   platform: cloud
   internal:
     pdf_enabled: true
@@ -9,7 +9,7 @@ settings:
 
 sidebar: 
   entries:
-  - title: Operational resiliency docs 
+  - title: BlueXP operational resiliency docs 
     url: /index.html 
   - section: release-notes 
   - section: get-started

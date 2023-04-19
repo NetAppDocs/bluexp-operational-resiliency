@@ -5,13 +5,13 @@ keywords: how to get started with bluexp operational resiliency, operational res
 summary: Get started with the NetApp BlueXP operational resiliency service in a few steps.
 ---
 
-= Quick start for the operational resiliency service
+= Quick start for BlueXP operational resiliency
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
 
 [.lead]
-Here's an overview of the steps needed to get started with the NetApp BlueXP operational resiliency service. The links within each step take you to a page that provides more details.
+Here's an overview of the steps needed to get started with BlueXP operational resiliency. The links within each step take you to a page that provides more details.
 
 
 

@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: use/remediate-review.html
 keywords: bluexp, operational resiliency, remediate, security risk remediation
-summary: The Risk remediation service identifies security risks on your on-premises ONTAP cluster.     
+summary: BlueXP operational resiliency identifies security risks on your on-premises ONTAP cluster.     
 ---
 
 = Review security risk issues
@@ -11,14 +11,15 @@ summary: The Risk remediation service identifies security risks on your on-premi
 :imagesdir: ../media/use/
 
 [.lead]
-The Risk remediation service identifies security risks on your on-premises ONTAP cluster. 
+BlueXP operational resiliency identifies security risks on your on-premises ONTAP cluster. 
 
 Reviewing the risks and executing the automated remediation involves the following processes: 
 
-* Create a Connector in BlueXP (if one does not already exist for the Risk remediation service). 
+* Create a Connector in BlueXP (if one does not already exist for the operational resiliency service). 
 * Discover the cluster (if one does not already exist for the service). 
 * Execute the remediation or download an Ansible playbook.
 * View the remediation status.
+
 
 
 

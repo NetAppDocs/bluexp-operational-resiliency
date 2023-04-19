@@ -11,7 +11,7 @@ summary: The NetApp BlueXP operational resiliency service uses AI to determine s
 :imagesdir: ../media/use/
 
 [.lead]
-The operational resiliency service enables you to review security risks related to firmware issues and implement remediations. 
+BlueXP operational resiliency enables you to review security risks related to firmware issues and implement remediations. 
 
 Recommendations are provided at the system or node level.
 
