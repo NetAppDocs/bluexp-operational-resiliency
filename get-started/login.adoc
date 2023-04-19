@@ -5,13 +5,13 @@ keywords: bluexp login, risk remediation log in, operational resiliency
 summary: Get started with the the operational resiliency service by accessing the service in BlueXP.
 ---
 
-= Access the operational resiliency service in BlueXP
+= Access BlueXP operational resiliency
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/get-started/
 
 [.lead]
-You can use the operational resiliency service by logging in to NetApp BlueXP. 
+You can use BlueXP operational resiliency by logging in to NetApp BlueXP. 
 
 To log in to BlueXP, you can use your NetApp Support Site credentials or you can sign up for a NetApp cloud login using your email and a password. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html[Learn more about logging in^].
 

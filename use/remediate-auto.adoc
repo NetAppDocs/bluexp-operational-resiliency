@@ -11,7 +11,7 @@ summary: If you selected the Remediate option, the service can implement the rem
 :imagesdir: ../media/use/
 
 [.lead]
-If you selected the *Remediate* option in the BlueXP operational resiliency service, the service can implement the remediation for you.  
+If you selected the *Remediate* option in BlueXP operational resiliency, the service can implement the remediation for you.  
 
 
 .Steps
@@ -29,7 +29,7 @@ Instructions appear, depending on the issue. Some of the options on this page do
 
 * If a Connector does not exist or is not yet enabled, the service displays the Create a Connector page, where you can create the Connector. If the Connector exists, but is not active, you must enable it in the Cloud provider service. 
 +
-Refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a connector^]. 
+Refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a Connector^]. 
 
 
 * If a cluster does not exist, the service displays a page where you identify the cluster. 

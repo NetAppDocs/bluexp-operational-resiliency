@@ -1,9 +1,9 @@
 section: get-started
 title: Get started
 entries:
-  - title: Learn about the operational resiliency service
+  - title: Learn about BlueXP operational resiliency
     url: /get-started/intro.html
-# - title: What's new in the operational resiliency service
+# - title: What's new in BlueXP operational resiliency
 #   url: /release-notes/whats-new.html
 # - title: Release notes
 #   url: /release-notes/rn_overview.html
@@ -11,9 +11,9 @@ entries:
     url: /get-started/prerequisites.html
   - title: Quick start
     url: /get-started/quick-start.html
-  - title: Set up the operational resiliency service 
+  - title: Set up BlueXP operational resiliency 
     url: /get-started/setup.html 
-  - title: Access the service on BlueXP
+  - title: Access BlueXP operational resiliency
     url: /get-started/login.html
   - title: FAQ
     url: /get-started/faq.html 

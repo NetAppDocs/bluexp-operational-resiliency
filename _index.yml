@@ -1,10 +1,10 @@
 indexpage:
-  lead: Operational resiliency is a service that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the operational resiliency service and its automated IT operational risk remediation suggestions, you can implement suggested remediations before an outage or failure occurs.
+  lead: BlueXP operational resiliency is a service that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions. Using the operational resiliency service and its automated IT operational risk remediation suggestions, you can implement suggested remediations before an outage or failure occurs.
   tiles:
   - title: Get started
     #image: ./media/outline_directions_run_black_18dp.png
     links:
-    - title: Learn about the operational resiliency service
+    - title: Learn about BlueXP operational resiliency
       url: /get-started/intro.html
     - title: What's new
       url: /release-notes/whats-new.html
@@ -18,7 +18,7 @@ indexpage:
       url: /get-started/login.html
     - title: FAQ
       url: /get-started/faq.html 
-  - title: Use the operational resiliency service
+  - title: Use BlueXP operational resiliency
     links:
     - title: Review and remediate security issues
       url: /use/remediate-overview.html
