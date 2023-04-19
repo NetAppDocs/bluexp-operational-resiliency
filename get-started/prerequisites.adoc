@@ -20,9 +20,12 @@ To use the operational resiliency service, you should ensure that your environme
 Refer to the https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html[BlueXP Quick start^] and https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html[BlueXP networking information^].
 
 
-* The service requires that all clusters are monitored by BlueXP digital advisor (Active IQ). Refer to https://docs.netapp.com/us-en/active-iq/index.html[BlueXP digital advisor documentation^].
+* The service requires that all clusters are monitored by BlueXP digital advisor (Active IQ), which requires AutoSupport enabled on the asset. Refer to https://docs.netapp.com/us-en/active-iq/index.html[BlueXP digital advisor documentation^].
 
 * You need to have access credentials to the clusters. 
 
-* While not a requirement, it is helpful if the BlueXP Connector is in place and enabled and the ONTAP system is discovered. If not, the operational resiliency service walks you through those processes. 
+* For automatic remediation, a BlueXP Connector is required. It is helpful if the BlueXP Connector is in place and enabled and the ONTAP system is discovered before you initiate the remediation using BlueXP operational resiliency. If the Connector is not in place, the operational resiliency service walks you through those processes. If instead you remediate using an Ansible file, the BlueXP Connector is not required. 
+
+
+
 

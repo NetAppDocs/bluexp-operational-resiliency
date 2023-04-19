@@ -15,10 +15,11 @@ BlueXP operational resiliency identifies security risks on your on-premises ONTA
 
 Reviewing the risks and executing the automated remediation involves the following processes: 
 
-* Create a Connector in BlueXP (if one does not already exist for the Risk remediation service). 
+* Create a Connector in BlueXP (if one does not already exist for the operational resiliency service). 
 * Discover the cluster (if one does not already exist for the service). 
 * Execute the remediation or download an Ansible playbook.
 * View the remediation status.
+
 
 
 
