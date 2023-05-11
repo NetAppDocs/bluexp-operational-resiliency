@@ -29,12 +29,12 @@ Instructions appear, depending on the issue. Some of the options on this page do
 
 * If a Connector does not exist or is not yet enabled, the service displays the Create a Connector page, where you can create the Connector. If the Connector exists, but is not active, you must enable it in the Cloud provider service. 
 +
-Refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a Connector^]. 
+Refer to the BlueXP documentation that describes https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html[how to create a Connector^]. 
 
 
 * If a cluster does not exist, the service displays a page where you identify the cluster. 
 +
-Refer to BlueXP documentation that explains https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[how to identify the cluster^].
+Refer to BlueXP documentation that explains https://docs.netapp.com/us-en/bluexp-setup-admin/index.html[how to identify the cluster^].
 
 . After the Connector is deployed and the cluster is discovered, review the remediation. 
 +
