@@ -24,12 +24,12 @@ A BlueXP Connector includes credentials to NetApp ONTAP machines so that the Ope
 
 You can create a Connector directly in BlueXP and use that Connector in the operational resiliency service. Or, you can initiate the process of looking at the cluster and in the middle of that process, deploy the Connector. 
 
-To create a Connector in BlueXP before using the service, refer to BlueXP documentation that describes https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[how to create a Connector^]. 
+To create a Connector in BlueXP before using the service, refer to BlueXP documentation that describes https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html[how to create a Connector^]. 
 
 
 == Discover the cluster in BlueXP 
 
 Part of the setup involves identifying the cluster name, IP, user name, and password within BlueXP.
 
-For instructions, refer to BlueXP documentation that explains https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html[how to identify the cluster^].
+For instructions, refer to BlueXP documentation that explains https://docs.netapp.com/us-en/bluexp-setup-admin/index.html[how to identify the cluster^].
 
