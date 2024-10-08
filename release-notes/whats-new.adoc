@@ -15,4 +15,4 @@ Learn what’s new in BlueXP operational resiliency.
 
 == 02 April 2023 
 
- include::_whatsnew/2023-04-02.adoc[]
+include::_whatsnew/2023-04-02.adoc[]
