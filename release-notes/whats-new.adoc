@@ -13,12 +13,6 @@ summary: Learn what’s new in BlueXP operational resiliency.
 [.lead]
 Learn what’s new in BlueXP operational resiliency.
 
-//tag::whats-new[]
 == 02 April 2023 
 
-Using the new BlueXP operational resiliency service and its automated IT operational risk remediation suggestions, you can implement suggested remediations before an outage or failure occurs. 
-
-Operational resiliency is a service that helps you analyze alerts and events to maintain the health, uptime, and performance of services and solutions.
-
-link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html[Learn more about BlueXP operational resiliency]. 
-//end::whats-new[]
+ include::_whatsnew/2023-04-02.adoc[]
