@@ -13,6 +13,8 @@ summary: Learn what’s new in BlueXP operational resiliency.
 [.lead]
 Learn what’s new in BlueXP operational resiliency.
 
+// tag::whats-new[]
 == 02 April 2023 
 
 include::_whatsnew/2023-04-02.adoc[]
+// end::whats-new[]
